@@ -1,0 +1,56 @@
+/* this is my navigation bar */
+/* the highscores float right and the timer floats left */
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+/* this is my navigation background stylying */
+#nav {
+    display: block;
+    background-color: white;
+    display: inline-block;
+    width: 95%;
+    border: 3px solid #7681a8;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+/* this is where the main body starts */
+
+/* this is the background color and font of the text */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e0e7ff;
+}
+/* this is my quizBody (shown in div html) and it is aligned to the center */
+#quizBody {
+    text-align: center;
+    padding: 20px;
+}
+/* this is my header padding */
+h4 {
+    padding: 10px;
+}
+
+/* this styling is for my button */
+    /* i put a background color, text color, font size, and padding */
+button {
+    background-color: #8f93ff;
+    color: white;
+    padding: 10px 16px 10px 16px;
+    font-size: 30px;
+}
+/* this is the background color that changes when you hover over the button */
+button:hover {
+    background-color: #bdbdc1;
+}
+
+/* this sets up my quiz body to the center */
+#quiz {
+    text-align: center;
+}
