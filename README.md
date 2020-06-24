@@ -39,13 +39,13 @@ HTML, CSS, and Javascript was used to create a quiz
 ### Sources Used
 * Code Drills
 * Class Activities
-* Display Output Timer
-** [https://www.educative.io/edpresso/how-to-create-a-countdown-timer-using-javascript] (#)
-* Setting Time Intervals 
-** [https://www.w3schools.com/jsref/met_win_clearinterval.asp] (#)
-* Saving Scores and Saving Variables to Local Storage
-** [https://stackoverflow.com/questions/29370017/adding-a-high-score-to-local-storage] (#)
-**[https://stackoverflow.com/questions/16245536/setting-a-variable-in-local-storage] (#)
+* Display Output Timer\
+* [https://www.educative.io/edpresso/how-to-create-a-countdown-timer-using-javascript](#)
+* Setting Time Intervals \
+* [https://www.w3schools.com/jsref/met_win_clearinterval.asp] (#)
+* Saving Scores and Saving Variables to Local Storage\
+* [https://stackoverflow.com/questions/29370017/adding-a-high-score-to-local-storage](#)\
+* [https://stackoverflow.com/questions/16245536/setting-a-variable-in-local-storage](#)
 ]
 
 
