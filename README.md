@@ -42,7 +42,7 @@ HTML, CSS, and Javascript was used to create a quiz
 * Link for Displaying Output Timer
 * [https://www.educative.io/edpresso/how-to-create-a-countdown-timer-using-javascript](#)
 * Link for Setting Time Intervals 
-* [https://www.w3schools.com/jsref/met_win_clearinterval.asp] (#)
+* [https://www.w3schools.com/jsref/met_win_clearinterval.asp](#)
 * Link for Saving Scores and Saving Variables to Local Storage
 * [https://stackoverflow.com/questions/29370017/adding-a-high-score-to-local-storage](#)
 * [https://stackoverflow.com/questions/16245536/setting-a-variable-in-local-storage](#)
