@@ -4,7 +4,7 @@
 /* answer is the answer */
 
 var questions = [{
-    title: "Q1. How any whiskers does an average cat have?",
+    title: "Q1. How many whiskers does an average cat have?",
     choices: ["20", "15", "12", "8"],
     answer: "12"
     }
