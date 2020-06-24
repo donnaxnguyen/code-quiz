@@ -4,7 +4,7 @@
 /* answer is the answer */
 
 var questions = [{
-    title: "Q1. How many whiskers does an average cat have?",
+    title: "Q1. How any whiskers does an average cat have?",
     choices: ["20", "15", "12", "8"],
     answer: "12"
     }
@@ -16,8 +16,8 @@ var questions = [{
     }
     ,
     {
-    title: "Q3. On average, how many cats can a cat mother give birth to?",
-    choices: ["1-2", "unlimited", "6-7", "3-5"],
+    title: "Q3. On average, how many kittens can a cat give birth to?",
+    choices: ["1-2", "Unlimited", "6-7", "3-5"],
     answer: "3-5"
     }
     ,

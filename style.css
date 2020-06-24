@@ -26,12 +26,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #e0e7ff;
+    text-align: center;
 }
 /* this is my quizBody (shown in div html) and it is aligned to the center */
 #quizBody {
     text-align: center;
     padding: 20px;
 }
+
 /* this is my header padding */
 h4 {
     padding: 10px;
